@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+  background-color: #F9F9FF;
+}
+  #first{
+    background:url("../src/assets/woman/w1.jpg");
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    width: auto;
+    
+  }
+#div1, #div2, #div3{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: .5em; 
+}
+
+  

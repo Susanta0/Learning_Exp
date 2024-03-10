@@ -21,5 +21,11 @@ body{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: .5em; 
 }
-
   
+#img1 {
+  transition: margin 0.5s ease;
+}
+
+#hover1:hover #img1 {
+  margin-left: 1em; 
+}

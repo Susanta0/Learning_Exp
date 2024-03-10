@@ -1,6 +1,6 @@
 import React from 'react'
-import videoPlate from "../assets/Rectangle17433.svg"
 import video from "../assets/video1.mp4"
+import poster from "../assets/Group/Group3.png"
 export const Why = () => {
     const para="At Learning Exp. We Are Committed To Providing You With A Superior Learning Experience That Empowers You To Achieve Your Goals. Join Us Today And Embark On A Journey Of Discovery, Growth, And Success."
   return (
@@ -12,11 +12,8 @@ export const Why = () => {
         '>
             <div className=''>
                 <div className=' w-[25em] h-[15em] flex items-center'
-                 style={{
-                    backgroundImage: `url(${videoPlate})`,
-                  }}
                 >
-                    <video className='w-[24em] m-auto rounded-tl-3xl' controls>
+                    <video className='w-[24em] m-auto rounded-tl-3xl' controls poster={poster}>
                         <source src={video} />
                     </video>
                 </div>

@@ -1,6 +1,14 @@
 # Learning_Exp
 ## Overview:
  Learning-Exp is a dynamic and responsive landing page designed and implemented using React, JSX, HTML, CSS, and Tailwind CSS. The project was completed within a timeframe of 8 hours, showcasing a combination of efficient development practices and a modern tech stack.
+ 
+## Tech Stack Logo
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+<img alt="JSX" src="https://img.shields.io/badge/JSX-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+
 
 ## Tech Stack:
 * ***React:***
